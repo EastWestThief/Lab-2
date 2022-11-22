@@ -1,0 +1,9 @@
+2.txt = 2.txt
+4.txt < 2.txt
+Result.txt > 2.txt
+Resultbat.txt > 2.txt
+bufer.txt < 2.txt
+new.sh > 2.txt
+test.bat > 2.txt
+test2.bat > 2.txt
+новый 1.txt = 2.txt
